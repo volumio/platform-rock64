@@ -1,6 +1,6 @@
 # platform-rock64
 
-**Volumio platform files for Asus Boards**
+**Volumio platform files for Pine Inc. Rock64 Boards**
 
 Kernel Sources  
 http://github.com/ayufan-rock64/linux-kernel  
