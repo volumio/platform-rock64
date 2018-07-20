@@ -24,3 +24,5 @@ This repo contains all files, used by the Volumio Builder to create a **Rock64**
 
 2017.09.07  Beta version  
 
+2018.07.20  Added RT5370 wireless support  
+ 
