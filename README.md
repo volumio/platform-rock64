@@ -25,4 +25,17 @@ This repo contains all files, used by the Volumio Builder to create a **Rock64**
 2017.09.07  Beta version  
 
 2018.07.20  Added RT5370 wireless support  
+
+2018.09.29  Kernel upgrade, remains work-in-progress  
+
+- Upgraded to Ayufan's kernel 4.4.132+, adding more wireless support  
+- Replaced u-boot by rockchip master  
+- Added support for a range of additional wireless adapters  
+
+
+
+
+ 
+
+
  
