@@ -28,9 +28,17 @@ This repo contains all files, used by the Volumio Builder to create a **Rock64**
 
 2018.09.29  Kernel upgrade, remains work-in-progress  
 
-- Upgraded to Ayufan's kernel 4.4.132+, adding more wireless support  
+- Upgraded to Ayufan's kernel 4.4.138+ 
 - Replaced u-boot by rockchip master  
 - Added support for a range of additional wireless adapters  
+
+2018.10.03	Kernel update
+
+- Included support for CONFIG_OF_CONFIGFS  
+- Included script for enabling DT_OVERLAY
+
+
+
 
 
 
