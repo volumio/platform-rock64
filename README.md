@@ -35,7 +35,12 @@ This repo contains all files, used by the Volumio Builder to create a **Rock64**
 2018.10.03	Kernel update
 
 - Included support for CONFIG_OF_CONFIGFS  
-- Included script for enabling DT_OVERLAY
+- Included script for enabling DT_OVERLAY  
+
+2018.12.31	Kernel update
+
+- USB Audio: add support for a wide range of DSD-direct capable DACs
+- USB-Audio: Eliminate noise at the start of DSD playback
 
 
 
