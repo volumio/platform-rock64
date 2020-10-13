@@ -42,6 +42,11 @@ This repo contains all files, used by the Volumio Builder to create a **Rock64**
 - USB Audio: add support for a wide range of DSD-direct capable DACs
 - USB-Audio: Eliminate noise at the start of DSD playback
 
+2020.10.13	Kernel update  
+
+- Enable lirc modules (remote control)  
+
+
 
 
 
