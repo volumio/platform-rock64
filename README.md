@@ -46,7 +46,9 @@ This repo contains all files, used by the Volumio Builder to create a **Rock64**
 
 - Enable lirc modules (remote control)
 
-2021.01.23  Firmware additions (wireless)
+2021.01.23  Firmware additions (wireless)/ Remove irrelevant modules"
+
+
 
 
 
